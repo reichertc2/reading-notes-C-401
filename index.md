@@ -6,10 +6,11 @@ This is the basic means of learning. The mini repository for the notes I will ta
 
 ### Table of Contents
 
-1. [Prep Work](class-00.md) - Prep Your Mindset
-<!-- 1. [Class One](class-01.md) - Intro to React and Components
-1. [Class Two](class-02.md) - State and Props
-1. [Class Three](class-03.md) - Passing Functions as Props
+1. [Mindset Work](class-00.md) - Prep Your Mindset
+1. [Class One](class-01.md) - Topic
+1. [Class Two](class-02.md) - Testing and Modules
+
+<!-- 1. [Class Three](class-03.md) - Passing Functions as Props
 1. [Class Four](class-04.md) - React and Forms
 1. [Class Five](class-05.md) - Putting it all together
 1. [Class Six](class-06.md) - NODE.js
