@@ -4,7 +4,7 @@
 
 Block intro
 
-> I love it when a plan comes together - John "Hannibal" Smith
+> My brain is only a reciever, in the univers htere is a core from which weobtain knowledge, strength, and inspiration. I have penetrated into the secrets of the core, but I know that it exists - Nikola Tesla
 
 ### In Tests We Trust - TDD with Python ([Article](https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932))
 
