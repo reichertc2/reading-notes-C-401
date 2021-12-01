@@ -4,7 +4,7 @@
 
 Block intro
 
-> I love it when a plan comes together - John "Hannibal" Smith
+> Some sessions are stars and some sessions are stones, but in the end they are all rocks and we build upon them - Chrissie Wellington
 
 ### Pain and Suffering ([Article](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering))
 
