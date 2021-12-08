@@ -14,9 +14,9 @@ This is the basic means of learning. The mini repository for the notes I will ta
 1. [Class Five](class-05.md) - Linked Lists
 1. [Class Six](class-06.md) - Game of Greed
 1. [Class Seven](class-07.md) - Game of Greed 2
+1. [Class Eight](class-08.md) - Game of Greed 3
 
-<!-- 1. [Class Eight](class-08.md) - APIs
-1. [Class Nine](class-09.md) - Functional Programming
+<!-- 1. [Class Nine](class-09.md) - Functional Programming
 1. [Class Ten](class-10.md) - In memory storage
 1. [Class Eleven](class-11.md) - Mongo and Mongoose
 1. [Class Twelve](class-12.md) - CRUD
