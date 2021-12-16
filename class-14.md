@@ -1,6 +1,6 @@
 # Code 401 - Advanced Software Development - Python
 
-## Class ## - TBD
+## Class 14 - Data Visualization
 
 Block intro
 
@@ -9,9 +9,9 @@ Block intro
 
 ### Matplotlib Tutorial ([Article](https://github.com/rougier/matplotlib-tutorial))
 
-### Resources
+That is indeed a comprehensive tutorial. I especially like the example chart customization. It is one thing to display information, it is another to have the data understood. I already have a few ideas in implementation on some pet projects. The tutorial includes quite a few tailoring techniques and code base examples. 
 
-Pytest Fixtures ([Article](https://docs.pytest.org/en/latest/explanation/fixtures.html))
+I especially like the quick references, most tutorials negate this critical feature.
 
 ### Bookmark/Skim
 
@@ -25,6 +25,6 @@ Seaborn Cheat Sheet ([Article](chrome-extension://efaidnbmnnnibpcajpcglclefindmk
 
 ### Things I want to know more about
 
-* 
+* I need to dive more into these docs as there is quite a few things I would like to know.
 
 Go [Home](index.md)
