@@ -21,6 +21,7 @@ This is the basic means of learning. The mini repository for the notes I will ta
 1. [Class Twelve](class-12.md) - Topic
 1. [Class Thirteen](class-13.md) - Linear Regressions
 1. [Class Fourteen A/B](class-14.md) - Data Visualization
+1. [Class Fourteen A/B](class-15.md) - Implementation: Trees
 
 ## Reminders
 
