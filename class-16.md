@@ -10,7 +10,11 @@ Block intro
 ### What is Serverless Computing? ([Article](https://www.ibm.com/cloud/learn/serverless))
     - through Pros and Cons
 
+To server or not to server. The serverless idea is a cloud based management of the backend functionality of applications. It locks you into a specific vendor for your backend management and reduces flexibility in moving providors. 
 
+The cons and pros of running 'serverless' are comprehensive. The idea of serverless is to off load the backend to another vendor and focus more on coding. The benefit is for those whose applications are spike based and not constant processes. Serverless requires time to ramp up, so high spikes might be noticable, but not detrimental.
+
+It is a horible idea to run serverless if your organization is dependent on responsiveness and or constant load. As serverless are dependent on spikes and sporadic usage. To have a dedicated server is more viable for those who require constant and accelerated performance.
 
 ### Bookmark/Skim
 
