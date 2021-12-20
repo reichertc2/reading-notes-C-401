@@ -22,8 +22,8 @@ This is the basic means of learning. The mini repository for the notes I will ta
 1. [Class Thirteen](class-13.md) - Linear Regressions
 1. [Class Fourteen](class-14.md) - Data Visualization
 1. [Class Fifteen](class-15.md) - Implementation: Trees
-1. [Class Fifteen](class-16.md) - Serverless Functions
-
+1. [Class Sixteen](class-16.md) - Serverless Functions
+1. [Class Seventeen](class-17.md) - Web Scraping
 
 ## Reminders
 
