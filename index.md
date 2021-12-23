@@ -25,6 +25,7 @@ This is the basic means of learning. The mini repository for the notes I will ta
 1. [Class Sixteen](class-16.md) - Serverless Functions
 1. [Class Seventeen](class-17.md) - Web Scraping
 1. [Class Eighteen](class-18.md) - Cryptography
+1. [Class Nineteen](class-19.md) - Automation
 
 
 ## Reminders
