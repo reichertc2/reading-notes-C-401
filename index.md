@@ -30,6 +30,8 @@ This is the basic means of learning. The mini repository for the notes I will ta
 1. [Class Twenty-Seven](class-27.md) - Django Models
 1. [Class Twenty-Eight](class-28.md) - Django CRUD and Forms
 1. [Class Twenty-Nine](class-29.md) - Django Custom User
+1. [Class Thirty](class-30.md) - Implementation: Has Tables
+
 
 
 ## Reminders
