@@ -32,6 +32,7 @@ This is the basic means of learning. The mini repository for the notes I will ta
 1. [Class Twenty-Nine](class-29.md) - Django Custom User
 1. [Class Thirty](class-30.md) - Implementation: Hash Tables
 1. [Class Thirty-One](class-31.md) - Django REST Framework & Docker
+1. [Class Thirty-Two](class-32.md) - Permissions & Postgresql
 
 
 
