@@ -33,8 +33,7 @@ This is the basic means of learning. The mini repository for the notes I will ta
 1. [Class Thirty](class-30.md) - Implementation: Hash Tables
 1. [Class Thirty-One](class-31.md) - Django REST Framework & Docker
 1. [Class Thirty-Two](class-32.md) - Permissions & Postgresql
-
-
+1. [Class Thirty-Three](class-33.md) - Authentication & Production Server
 
 ## Reminders
 
