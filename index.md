@@ -35,6 +35,7 @@ This is the basic means of learning. The mini repository for the notes I will ta
 1. [Class Thirty-Two](class-32.md) - Permissions & Postgresql
 1. [Class Thirty-Three](class-33.md) - Authentication & Production Server
 1. [Class Thirty-Four](class-34.md) - API Deployment
+1. [Class Thirty-Five](class-35.md) - Graphs
 
 ## Reminders
 
