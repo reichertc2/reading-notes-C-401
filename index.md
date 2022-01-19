@@ -36,6 +36,8 @@ This is the basic means of learning. The mini repository for the notes I will ta
 1. [Class Thirty-Three](class-33.md) - Authentication & Production Server
 1. [Class Thirty-Four](class-34.md) - API Deployment
 1. [Class Thirty-Five](class-35.md) - Graphs
+1. [Class Thirty-Six](class-36.md) - DSA Review
+
 
 ## Reminders
 
