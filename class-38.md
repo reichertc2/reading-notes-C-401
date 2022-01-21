@@ -21,6 +21,26 @@ React - Composition vs Inheritance ([Article](https://reactjs.org/docs/compositi
 
 Thinking in React ([Article](https://reactjs.org/docs/thinking-in-react.html))
 
+There are a lot of parallels between the class based React and the function based React. The major differences are the function arcitecture and some of the syntax when setting up a new component. It is quite intuitive and similar to class based.
+
+```
+function UserGreeting(props) {
+  return <h1>Welcome back!</h1>;
+}
+ <!-- VS -->
+
+ class UserGreeting extends React.Component {
+     render(){
+         return(
+             <h1>Welcome back!</h1>
+         )
+     }
+ }
+```
+
+As you can see there is a lot less code to execute roughly the same thing. It reads that the handling of state and passing of props along with other routine tasks are relatively the same. 
+
+I look forward to working with the function based react in Next.js 
 
 
 ### Additional Resources
