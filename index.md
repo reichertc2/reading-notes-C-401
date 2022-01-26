@@ -40,6 +40,7 @@ This is the basic means of learning. The mini repository for the notes I will ta
 1. [Class Thirty-Seven](class-37.md) - React 1
 1. [Class Thirty-Eight](class-38.md) - React 2
 1. [Class Forty-One](class-41.md) - React 4
+1. [Class Forty-Two](class-42.md) - Pythonisms
 
 ## Reminders
 
